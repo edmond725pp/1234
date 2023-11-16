@@ -62,7 +62,7 @@
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^8.0.0",
-    "path-to-regexp": "^0.1.7",
+    "path-to-regexp": "^0.2.5",
     "proxy-addr": "^2.0.7",
     "punycode": "^2.3.1",
     "qs": "^6.11.0",
